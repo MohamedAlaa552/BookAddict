@@ -1,0 +1,93 @@
+nav{
+  z-index: 1000000;
+}
+.nav{
+  background-color: var(--main-color);
+
+  /* width: 100%; */
+}
+.nav .links a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  height: fit-content;
+  margin-right: 5vw;
+  font-weight:500;
+}
+.nav .links a:last-child{
+  background-color: #00000063;
+  border-radius: 25px;
+}
+.navbar .navbar-nav a:hover{
+  color: black;
+  transition: 0.3s;
+}
+.button{
+  background-color: var(--second-color);
+  border-radius: 50px;
+  width: 38px;
+  color: white;
+  border: 1px solid;
+  height: 38px;
+  transition: 0.2s;
+}
+
+.button:hover,.button:focus{
+  background-color: white;
+  color: var(--second-color);
+  transition: 0.2s;
+  border: 1px solid var(--second-color);
+
+}
+.cart-img{
+  width: 45px;
+  height: 45px;
+  border-radius: 50px;
+}
+.price{
+  color: gray;
+  font-size: 14px;
+}
+.delete-item{
+  cursor: pointer;
+  color: #bf0909;
+}
+.dropdown-menu{
+  z-index: 1000;
+}
+.dropdown-menu .dropdown-item:active,.dropdown-menu .dropdown-item:focus-visible{
+color: black !important;
+background-color: white !important;
+border: white !important;
+}
+.button::before{
+  content: attr(data-before);
+  display: block;
+  width: 20px;
+  font-size: 12px;
+  display: flex;
+  color: black;
+  text-align: center;
+  border: 1px solid var(--second-color);
+  height: 20px;
+  outline: 1px solid white;
+  position: absolute;
+  border-radius: 15px;
+  background-color: white;
+  top: 0px;
+  left: -11px;
+  align-items: center;
+  justify-content: center;
+}
+.alert{
+  position: absolute;
+    top: 10px;
+    width: 300px;
+    left: calc(50% - 150px);
+    animation: aletr-move forwards ;
+    animation-duration: 1s;
+}
+@keyframes aletr-move {
+  0% {top: -100%;}
+  100% {top: 10px;}
+}
