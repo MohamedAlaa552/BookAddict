@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.Dtos.CartDtos
+namespace BookAddict.Domain.Dtos.CartDtos
 {
     public class Cart
     {

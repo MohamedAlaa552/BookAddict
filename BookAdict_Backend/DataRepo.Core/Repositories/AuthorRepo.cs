@@ -1,5 +1,5 @@
-﻿using DataRepository.Core.Interfaces;
-using DataRepository.Core.Models;
+﻿using BookAddict.Domain.Interfaces;
+using BookAddict.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataRepo.Ef.Repositories

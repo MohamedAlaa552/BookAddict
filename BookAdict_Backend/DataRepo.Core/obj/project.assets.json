@@ -1260,7 +1260,7 @@
           }
         }
       },
-      "DataRepository.Core/1.0.0": {
+      "BookAddict.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1268,10 +1268,10 @@
           "Microsoft.EntityFrameworkCore": "7.0.2"
         },
         "compile": {
-          "bin/placeholder/DataRepository.Core.dll": {}
+          "bin/placeholder/BookAddict.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DataRepository.Core.dll": {}
+          "bin/placeholder/BookAddict.Domain.dll": {}
         }
       }
     }
@@ -3739,15 +3739,15 @@
         "version.txt"
       ]
     },
-    "DataRepository.Core/1.0.0": {
+    "BookAddict.Domain/1.0.0": {
       "type": "project",
-      "path": "../DataRepository.Core/DataRepository.Core.csproj",
-      "msbuildProject": "../DataRepository.Core/DataRepository.Core.csproj"
+      "path": "../DataRepository.Core/BookAddict.Domain.csproj",
+      "msbuildProject": "../DataRepository.Core/BookAddict.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DataRepository.Core >= 1.0.0",
+      "BookAddict.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.26",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.26",
       "Microsoft.EntityFrameworkCore >= 7.0.2",
@@ -3761,11 +3761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\DataRepo.Ef.csproj",
-      "projectName": "DataRepo.Ef",
-      "projectPath": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\DataRepo.Ef.csproj",
+      "projectUniqueName": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj",
+      "projectName": "BookAddict.Persistance",
+      "projectPath": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj",
       "packagesPath": "C:\\Users\\mozam\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\obj\\",
+      "outputPath": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepo.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mozam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3782,8 +3782,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\DataRepository.Core.csproj": {
-              "projectPath": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\DataRepository.Core.csproj"
+            "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj": {
+              "projectPath": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj"
             }
           }
         }

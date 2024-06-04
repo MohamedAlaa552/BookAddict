@@ -1,4 +1,4 @@
-﻿using DataRepository.Core.Interfaces;
+﻿using BookAddict.Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.CustomAttributes
+namespace BookAddict.Domain.CustomAttributes
 {
     //public class ISUniqueAttribute : ValidationAttribute
     //{

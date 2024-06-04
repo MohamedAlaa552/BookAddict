@@ -1,4 +1,4 @@
-﻿using DataRepository.Core.CustomAttributes;
+﻿using BookAddict.Domain.CustomAttributes;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.Models
+namespace BookAddict.Domain.Models
 {
     public class Order
     {

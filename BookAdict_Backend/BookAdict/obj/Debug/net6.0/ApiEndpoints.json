@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "roleModel",
-        "Type": "DataRepository.Core.Dtos.AddRoleDto",
+        "Type": "BookAddict.Domain.Dtos.AddRoleDto",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "tokenModel",
-        "Type": "DataRepository.Core.Dtos.TokenRequestDto",
+        "Type": "BookAddict.Domain.Dtos.TokenRequestDto",
         "IsRequired": true
       }
     ],
@@ -51,7 +51,7 @@
     "Parameters": [
       {
         "Name": "registerModel",
-        "Type": "DataRepository.Core.Dtos.RegisterRequestDto",
+        "Type": "BookAddict.Domain.Dtos.RegisterRequestDto",
         "IsRequired": true
       }
     ],
@@ -444,7 +444,7 @@
     "Parameters": [
       {
         "Name": "cartItem",
-        "Type": "DataRepository.Core.Dtos.CartDtos.CartItem",
+        "Type": "BookAddict.Domain.Dtos.CartDtos.CartItem",
         "IsRequired": true
       }
     ],
@@ -460,7 +460,7 @@
     "Parameters": [
       {
         "Name": "cartItem",
-        "Type": "DataRepository.Core.Dtos.CartDtos.CartItem",
+        "Type": "BookAddict.Domain.Dtos.CartDtos.CartItem",
         "IsRequired": true
       }
     ],
@@ -492,7 +492,7 @@
     "Parameters": [
       {
         "Name": "categoryDto",
-        "Type": "DataRepository.Core.DTOS.CategoryDtos.CategoryInDto",
+        "Type": "BookAdict.Application.DTOS.CategoryDtos.CategoryInDto",
         "IsRequired": true
       }
     ],
@@ -550,7 +550,7 @@
     "Parameters": [
       {
         "Name": "categoryIn",
-        "Type": "DataRepository.Core.DTOS.CategoryDtos.CategoryInDto",
+        "Type": "BookAdict.Application.DTOS.CategoryDtos.CategoryInDto",
         "IsRequired": true
       }
     ],
@@ -566,7 +566,7 @@
     "Parameters": [
       {
         "Name": "items",
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[DataRepository.Core.Dtos.OrderItemDto, DataRepository.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookAddict.Domain.Dtos.OrderItemDto, BookAddict.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": true
       },
       {

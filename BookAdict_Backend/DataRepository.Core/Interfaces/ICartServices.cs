@@ -1,11 +1,11 @@
-﻿using DataRepository.Core.Dtos.CartDtos;
+﻿using BookAddict.Domain.Dtos.CartDtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.Interfaces
+namespace BookAddict.Domain.Interfaces
 {
     public interface ICartServices
     {

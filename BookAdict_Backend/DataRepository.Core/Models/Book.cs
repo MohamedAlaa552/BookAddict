@@ -2,9 +2,10 @@
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations;
 
-using DataRepository.Core.Interfaces;
+using BookAddict.Domain.Interfaces;
+using BookAddict.Domain.Models;
 
-namespace DataRepository.Core.Models
+namespace BookAddict.Domain.Models
 {
     [Index(nameof(ISPN),IsUnique =true)]
     public class Book

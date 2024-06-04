@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.Dtos
+namespace BookAddict.Domain.Dtos
 {
     public class TokenRequestDto
     {

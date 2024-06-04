@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.Models
+namespace BookAddict.Domain.Models
 {
     public class OrderItem
     {

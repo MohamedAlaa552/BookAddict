@@ -1,11 +1,11 @@
-﻿using DataRepository.Core.Models;
+﻿using BookAddict.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.Dtos.CartDtos
+namespace BookAddict.Domain.Dtos.CartDtos
 {
     public class CheckOutRequestDto
     {

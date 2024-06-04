@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.CustomAttributes
+namespace BookAddict.Domain.CustomAttributes
 {
     public class DateCheckerAttribute: ValidationAttribute
     {

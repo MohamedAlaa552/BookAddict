@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
 using BookAdict.Interfaces;
-using DataRepository.Core.DTOS.AuthorDtos;
-using DataRepository.Core.Interfaces;
-using DataRepository.Core.Models;
+using BookAddict.Application.DTOS.AuthorDtos;
+using BookAddict.Domain.Interfaces;
+using BookAddict.Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 

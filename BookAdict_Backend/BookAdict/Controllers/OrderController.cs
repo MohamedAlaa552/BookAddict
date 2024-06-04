@@ -1,11 +1,11 @@
 ﻿using BookAdict.Services;
-using DataRepository.Core.Interfaces;
-using DataRepository.Core.Models;
+using BookAddict.Domain.Interfaces;
+using BookAddict.Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Stripe;
-using DataRepository.Core.Dtos.CartDtos;
-using DataRepository.Core.Dtos;
+using BookAddict.Domain.Dtos.CartDtos;
+using BookAddict.Domain.Dtos;
 using AutoMapper;
 using MediatR;
 using BookAdict.Queries.OrderQueries;

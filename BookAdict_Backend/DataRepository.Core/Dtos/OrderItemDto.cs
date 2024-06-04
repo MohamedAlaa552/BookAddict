@@ -1,4 +1,4 @@
-﻿using DataRepository.Core.Models;
+﻿using BookAddict.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace DataRepository.Core.Dtos
+namespace BookAddict.Domain.Dtos
 {
     public class OrderItemDto
     {
