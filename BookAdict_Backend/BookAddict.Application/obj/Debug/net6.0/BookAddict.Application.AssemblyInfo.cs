@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookAddict.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b3fc6f10c25278ee705abf81940a1bd83126830")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11975c150004deb243f7f041595c19a98f73a39")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookAddict.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookAddict.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

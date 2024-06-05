@@ -6,6 +6,7 @@ using BookAddict.Domain.Dtos.CartDtos;
 using BookAddict.Domain.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace BookAdict.Handlers.OrderHandlers
 {
@@ -14,11 +15,13 @@ namespace BookAdict.Handlers.OrderHandlers
         private readonly IMapper _mapper;
         private readonly IUnitOfWork _unitOfWork;
         private readonly PaymentService _paymentService;
-public ConfirmOrderRequestHandler(IMapper mapper, IUnitOfWork unitOfWork, PaymentService paymentService)
+        private readonly IMemoryCache _cache;
+        public ConfirmOrderRequestHandler(IMapper mapper, IUnitOfWork unitOfWork, PaymentService paymentService, IMemoryCache cache)
         {
             _mapper = mapper;
             _unitOfWork = unitOfWork;
             _paymentService = paymentService;
+            _cache = cache;
         }
 
         public async Task<ConfirmPaymentResponse> Handle(ConfirmOrderRequest request, CancellationToken cancellationToken)
@@ -28,6 +31,7 @@ public ConfirmOrderRequestHandler(IMapper mapper, IUnitOfWork unitOfWork, Paymen
 
             if (request.IsCashPayment) {
                await CreateAndHandleOrder(request.userId,orderItems);
+                _cache.Remove($"Cart{request.userId}");
                 return (new ConfirmPaymentResponse());
             }
             var user = await _unitOfWork.User.GetUser(request.userId);

@@ -28,8 +28,8 @@ namespace BookAdict.Services
         {
             return new SessionCreateOptions
             {
-                SuccessUrl = configuration.GetSection("BaseURL").Get<string>() + "/api/Order/AddOrder",
-                CancelUrl = configuration.GetSection("BaseURL").Get<string>(),
+                SuccessUrl = configuration.GetSection("BaseURL").Get<string>() + "/api/Order/ConfirmPayment",
+                CancelUrl = configuration.GetSection("FrontEndURL").Get<string>(),
                 LineItems = new List<SessionLineItemOptions>(),
                 Mode = "payment",
                 CustomerEmail = user.Email
@@ -51,7 +51,7 @@ namespace BookAdict.Services
                         Name =  item.Book.Title,
                     }
                 },
-                Quantity = item.Qyantity,
+                Quantity = item.Quantity,
             };
         }
     }

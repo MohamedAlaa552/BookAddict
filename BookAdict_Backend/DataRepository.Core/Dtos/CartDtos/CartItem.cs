@@ -14,9 +14,9 @@ namespace BookAddict.Domain.Dtos.CartDtos
         public int BookId { get; set; }
         public string ImgUrl { get; set; }
         public string Name { get; set; }
-        public double Price { get; set; }
+        public double SinglePrice { get; set; }
         [Range(1,int.MaxValue)]
-        public int NumberOfItems { get; set; } = 1;
+        public int Quantity { get; set; } = 1;
         [Required]
         public string UserId { get; set; } = string.Empty;
     }

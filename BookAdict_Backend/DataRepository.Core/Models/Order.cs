@@ -16,7 +16,7 @@ namespace BookAddict.Domain.Models
         public Order(string UserId,IEnumerable<OrderItem> Items) 
         {
             this.UserId = UserId;
-            TotalPrice = Items.Sum(item => item.SinglePrice * item.Qyantity);
+            TotalPrice = Items.Sum(item => item.SinglePrice * item.Quantity);
         }
         public int Id { get; set; }
         public string UserId { get; set; }

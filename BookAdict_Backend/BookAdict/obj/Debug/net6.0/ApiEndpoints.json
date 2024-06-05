@@ -566,7 +566,7 @@
     "Parameters": [
       {
         "Name": "items",
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookAddict.Domain.Dtos.OrderItemDto, BookAddict.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookAddict.Domain.Dtos.CartDtos.CartItem, BookAddict.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": true
       },
       {
@@ -580,6 +580,16 @@
         "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookAdict.Controllers.OrderController",
+    "Method": "ConfirmPayment",
+    "RelativePath": "api/Order/ConfirmPayment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]

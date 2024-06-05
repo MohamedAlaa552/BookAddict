@@ -14,7 +14,7 @@ namespace BookAddict.Domain.Dtos
         [Required]
         public int BookId { get; set; }
         [Required, Range(0, double.MaxValue, ErrorMessage = "Total price must be more than 0")]
-        public int Qyantity { get; set; }
+        public int Quantity { get; set; }
         [Required, Range(0, double.MaxValue, ErrorMessage = "Total price must be more than 0")]
         public int SinglePrice { get; set; }
     }

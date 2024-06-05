@@ -6,6 +6,7 @@ using BookAdict.Application.DTOS.CategoryDtos;
 using BookAddict.Domain.Models;
 using BookAddict.Application.DTOS.CategoryDtos;
 using BookAddict.Domain.Models;
+using BookAddict.Domain.Dtos.CartDtos;
 
 namespace BookAdict.Helpers
 {
@@ -28,6 +29,7 @@ namespace BookAdict.Helpers
             CreateMap<ApplicationUser, ApplicationUserDto>().ReverseMap();
             CreateMap<ApplicationUser, AuthModel>().ReverseMap();
             CreateMap<OrderItem,OrderItemDto>().ReverseMap();
+            CreateMap<OrderItem,CartItem>().ReverseMap();
             //CreateMap<Book, BookDto>().IncludeMembers(src => src.Authors);
         }
     }

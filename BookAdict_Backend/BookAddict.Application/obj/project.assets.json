@@ -4205,11 +4205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\BookAddict.Application\\BookAddict.Application.csproj",
+      "projectUniqueName": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\BookAddict.Application\\BookAddict.Application.csproj",
       "projectName": "BookAddict.Application",
-      "projectPath": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\BookAddict.Application\\BookAddict.Application.csproj",
+      "projectPath": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\BookAddict.Application\\BookAddict.Application.csproj",
       "packagesPath": "C:\\Users\\mozam\\.nuget\\packages\\",
-      "outputPath": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\BookAddict.Application\\obj\\",
+      "outputPath": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\BookAddict.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mozam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4226,11 +4226,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj": {
-              "projectPath": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj"
+            "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj": {
+              "projectPath": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj"
             },
-            "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj": {
-              "projectPath": "D:\\project dublicate\\BookAddict-main\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj"
+            "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj": {
+              "projectPath": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj"
             }
           }
         }
