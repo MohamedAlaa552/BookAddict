@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BookAddict.Application\BookAddict.Application.csproj" />
     <ProjectReference Include="..\DataRepository.Core\BookAddict.Domain.csproj" />
   </ItemGroup>
 

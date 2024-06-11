@@ -918,7 +918,6 @@
           "AutoMapper": "12.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "BookAddict.Domain": "1.0.0",
-          "BookAddict.Persistance": "1.0.0",
           "MediatR": "12.2.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.26",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26",
@@ -940,6 +939,7 @@
       },
       "BookAddict.Persistance/1.0.0": {
         "dependencies": {
+          "BookAddict.Application": "1.0.0",
           "BookAddict.Domain": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.26",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.26",

@@ -2,7 +2,7 @@
 using BookAdict.Interfaces;
 using BookAdict.Queries.BookQueries;
 using BookAddict.Application.DTOS.BookDtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using MediatR;
 using System.Collections.Generic;
 

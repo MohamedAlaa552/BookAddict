@@ -1,6 +1,6 @@
 ﻿using DataRepo.Ef.CacheMemoryServices;
 using DataRepo.Ef.Repositories;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Caching.Memory;

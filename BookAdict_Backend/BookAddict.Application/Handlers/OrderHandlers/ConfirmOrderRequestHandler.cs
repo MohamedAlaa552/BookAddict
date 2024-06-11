@@ -3,7 +3,7 @@ using BookAdict.Queries.OrderQueries;
 using BookAdict.Services;
 using BookAddict.Domain.Dtos;
 using BookAddict.Domain.Dtos.CartDtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
 using Microsoft.Extensions.Caching.Memory;

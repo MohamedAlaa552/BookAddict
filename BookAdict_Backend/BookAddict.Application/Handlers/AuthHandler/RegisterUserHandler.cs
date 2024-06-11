@@ -1,6 +1,6 @@
 ﻿using BookAdict.Commands.AuthCommands;
 using BookAddict.Domain.Dtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
 

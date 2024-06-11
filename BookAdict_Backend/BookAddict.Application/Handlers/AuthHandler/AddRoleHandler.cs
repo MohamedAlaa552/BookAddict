@@ -1,5 +1,5 @@
 ﻿using BookAdict.Commands.AuthCommands;
-using BookAddict.Domain.Interfaces;
+using  BookAddict.Application.Interfaces;
 using MediatR;
 
 namespace BookAdict.Handlers.AuthHandler

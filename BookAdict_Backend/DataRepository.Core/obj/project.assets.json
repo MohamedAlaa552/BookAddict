@@ -807,11 +807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj",
+      "projectUniqueName": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj",
       "projectName": "BookAddict.Domain",
-      "projectPath": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj",
+      "projectPath": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj",
       "packagesPath": "C:\\Users\\mozam\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\bookAddict v2\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\obj\\",
+      "outputPath": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mozam\\AppData\\Roaming\\NuGet\\NuGet.Config",

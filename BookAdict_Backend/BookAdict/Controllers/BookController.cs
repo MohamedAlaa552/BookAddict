@@ -6,7 +6,7 @@ using BookAdict.Queries.BookQueries;
 using BookAdict.Services;
 using DataRepo.Ef;
 using BookAddict.Application.DTOS.BookDtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;

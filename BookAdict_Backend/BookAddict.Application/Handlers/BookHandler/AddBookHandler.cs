@@ -2,7 +2,7 @@
 using BookAdict.Commands;
 using BookAdict.Interfaces;
 using BookAddict.Application.DTOS.BookDtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
 

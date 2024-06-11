@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataRepo.Core\BookAddict.Persistance.csproj" />
     <ProjectReference Include="..\DataRepository.Core\BookAddict.Domain.csproj" />
   </ItemGroup>
 

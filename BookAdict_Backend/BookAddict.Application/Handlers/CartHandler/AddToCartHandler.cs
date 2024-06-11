@@ -1,6 +1,6 @@
 ﻿using BookAdict.Commands.CartCommands;
 using BookAddict.Domain.Dtos.CartDtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using MediatR;
 
 namespace BookAdict.Handlers.CartHandler

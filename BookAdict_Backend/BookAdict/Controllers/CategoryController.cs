@@ -3,7 +3,7 @@ using Azure;
 using BookAddict.Application.DTOS.CategoryDtos;
 using BookAddict.Domain.Models;
 using BookAdict.Application.DTOS.CategoryDtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookAdict.Controllers

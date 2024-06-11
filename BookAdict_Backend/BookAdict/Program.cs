@@ -3,7 +3,7 @@ using BookAdict.Services;
 using DataRepo.Ef;
 using DataRepo.Ef.Services;
 using BookAddict.Domain.HelperModels;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;

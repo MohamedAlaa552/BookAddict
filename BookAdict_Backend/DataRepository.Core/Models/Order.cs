@@ -1,4 +1,4 @@
-﻿using BookAddict.Domain.CustomAttributes;
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -22,7 +22,6 @@ namespace BookAddict.Domain.Models
         public string UserId { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public bool IsDeliverd { get; set; } = false;
-        [DateChecker(ErrorMessage = "Date Is Wrong")]
         [DataType(DataType.Date)]
         public DateTime DeliverdAt { get; set; } = default(DateTime);
         [Required]

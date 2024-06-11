@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using BookAdict.Commands;
 using BookAdict.Interfaces;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
 

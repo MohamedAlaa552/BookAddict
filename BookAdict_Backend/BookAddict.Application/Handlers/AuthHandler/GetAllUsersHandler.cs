@@ -2,7 +2,7 @@
 using BookAdict.Commands.AuthCommands;
 using BookAdict.Queries.AuthQueries;
 using BookAddict.Domain.Dtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
 

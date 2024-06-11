@@ -2,7 +2,6 @@
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations;
 
-using BookAddict.Domain.Interfaces;
 using BookAddict.Domain.Models;
 
 namespace BookAddict.Domain.Models
@@ -11,7 +10,7 @@ namespace BookAddict.Domain.Models
     public class Book
     {
         public int Id { get; set; }
-        [Required, MinLength(2), MaxLength(128), ISUnique()]
+        [Required, MinLength(2), MaxLength(128)]
         public string ISPN { get; set; }
         [Required,MinLength(2),MaxLength(128)]
         public string Title { get; set; }

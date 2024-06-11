@@ -1,4 +1,4 @@
-﻿using BookAddict.Domain.Interfaces;
+﻿using BookAddict.Application.Interfaces;
 
 namespace BookAdict.Handlers.CartHandler
 {

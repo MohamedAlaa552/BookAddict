@@ -1,5 +1,5 @@
 ﻿using DataRepo.Ef.Services;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using System;

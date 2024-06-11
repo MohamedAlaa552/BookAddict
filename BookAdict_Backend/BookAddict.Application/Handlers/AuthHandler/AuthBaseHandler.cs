@@ -1,5 +1,5 @@
 ﻿using DataRepo.Ef;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 
 namespace BookAdict.Handlers.AuthHandler
 {

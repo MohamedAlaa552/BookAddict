@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookAddict.Persistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11975c150004deb243f7f041595c19a98f73a39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b623be3d90d1cb8ae271279f75508481bd559b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookAddict.Persistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookAddict.Persistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

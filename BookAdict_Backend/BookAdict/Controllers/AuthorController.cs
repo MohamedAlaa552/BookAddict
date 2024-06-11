@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using BookAdict.Interfaces;
 using BookAddict.Application.DTOS.AuthorDtos;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

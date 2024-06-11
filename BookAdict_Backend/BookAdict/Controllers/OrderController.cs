@@ -1,5 +1,5 @@
 ﻿using BookAdict.Services;
-using BookAddict.Domain.Interfaces;
+using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -21,14 +21,9 @@ namespace BookAdict.Controllers
         //private readonly IUnitOfWork _unitOfWork;
         //private readonly IMapper _mapper;
         private readonly IMediator _mediator;
-        private readonly IConfiguration _configuration;
-        public OrderController( IMediator mediator, IConfiguration configuration)
+        public OrderController( IMediator mediator)
         {
-            //_paymentService = paymentService;
-            //_unitOfWork = unitOfWork;
-            //_mapper = mapper;
             _mediator = mediator;
-            _configuration = configuration;
         }
 
         [HttpPost("ConfirmOrder")]
