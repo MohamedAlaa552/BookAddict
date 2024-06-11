@@ -279,7 +279,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookAddict.Domain",
+              "Title": "BookAddict.Domain.csproj",
               "DocumentMoniker": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj",
               "RelativeDocumentMoniker": "DataRepository.Core\\BookAddict.Domain.csproj",
               "ToolTip": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepository.Core\\BookAddict.Domain.csproj",
@@ -299,8 +299,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\BookHandler\\SearchBookHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T05:10:13.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T05:10:13.432Z"
             },
             {
               "$type": "Document",
@@ -312,8 +311,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\AuthHandler\\TokenRequestHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T05:10:05.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T05:10:05.473Z"
             },
             {
               "$type": "Document",
@@ -325,21 +323,19 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\CartHandler\\AddToCartHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:32:13.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T10:32:13.027Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookAddict.Persistance",
+              "Title": "BookAddict.Persistance.csproj",
               "DocumentMoniker": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj",
               "RelativeDocumentMoniker": "DataRepo.Core\\BookAddict.Persistance.csproj",
               "ToolTip": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj",
               "RelativeToolTip": "DataRepo.Core\\BookAddict.Persistance.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-11T04:38:39.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:38:39.533Z"
             },
             {
               "$type": "Document",
@@ -351,8 +347,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\BookHandler\\GetAllBooksHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:09:09.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:09:09.947Z"
             },
             {
               "$type": "Document",
@@ -364,8 +359,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\CartHandler\\DeleteCartItemHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:38.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:38.556Z"
             },
             {
               "$type": "Document",
@@ -377,8 +371,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\BookHandler\\GetByCategoryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:40.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:40.559Z"
             },
             {
               "$type": "Document",
@@ -390,8 +383,7 @@
               "RelativeToolTip": "BookAddict.Application\\BookAddict.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T14:55:11.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:55:11.36Z"
             },
             {
               "$type": "Document",
@@ -403,8 +395,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\BookHandler\\UpdateBookHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T05:10:19.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T05:10:19.077Z"
             },
             {
               "$type": "Document",
@@ -416,8 +407,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\OrderHandlers\\ConfirmOrderRequestHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:16:48.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T10:16:48.395Z"
             },
             {
               "$type": "Document",
@@ -429,8 +419,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\CartHandler\\GetCartHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:41.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:41.283Z"
             },
             {
               "$type": "Document",
@@ -442,8 +431,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\CartHandler\\BaseCartHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:36.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:36.898Z"
             },
             {
               "$type": "Document",
@@ -455,8 +443,7 @@
               "RelativeToolTip": "DataRepository.Core\\Models\\Order.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAA1wBcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:43:48.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T10:43:48.012Z"
             },
             {
               "$type": "Document",
@@ -468,8 +455,7 @@
               "RelativeToolTip": "DataRepo.Core\\Repositories\\CategoryRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:16:08.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:16:08.51Z"
             },
             {
               "$type": "Document",
@@ -481,8 +467,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\BookHandler\\GetBookHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:39.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:39.895Z"
             },
             {
               "$type": "Document",
@@ -494,8 +479,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\BookHandler\\DeleteBookHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:37.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:37.747Z"
             },
             {
               "$type": "Document",
@@ -507,8 +491,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\BookHandler\\AddBookHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:02:26.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:02:26.801Z"
             },
             {
               "$type": "Document",
@@ -520,8 +503,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\AuthHandler\\GetAllUsersHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:39.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:39.33Z"
             },
             {
               "$type": "Document",
@@ -533,8 +515,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\AuthHandler\\AuthBaseHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:35.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:35.099Z"
             },
             {
               "$type": "Document",
@@ -546,8 +527,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:47.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:47.746Z"
             },
             {
               "$type": "Document",
@@ -559,8 +539,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\AuthHandler\\AddRoleHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:34.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:34.143Z"
             },
             {
               "$type": "Document",
@@ -572,8 +551,7 @@
               "RelativeToolTip": "BookAdict\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T15:58:59.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T15:58:59.075Z"
             },
             {
               "$type": "Document",
@@ -585,8 +563,7 @@
               "RelativeToolTip": "BookAdict\\Controllers\\OrderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T09:58:56.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T09:58:56.062Z"
             },
             {
               "$type": "Document",
@@ -598,8 +575,7 @@
               "RelativeToolTip": "BookAddict.Application\\Services\\AuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:36.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:36.024Z"
             },
             {
               "$type": "Document",
@@ -611,8 +587,7 @@
               "RelativeToolTip": "DataRepository.Core\\Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:48:14.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:48:14.408Z"
             },
             {
               "$type": "Document",
@@ -624,8 +599,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IUserRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:48.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:48.391Z"
             },
             {
               "$type": "Document",
@@ -637,8 +611,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IOrderServices.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:46.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:46.44Z"
             },
             {
               "$type": "Document",
@@ -650,8 +623,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:44.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:44.193Z"
             },
             {
               "$type": "Document",
@@ -663,8 +635,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\ICategoryRepo.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:43.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:43.614Z"
             },
             {
               "$type": "Document",
@@ -676,8 +647,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\ICartServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:43.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:43.063Z"
             },
             {
               "$type": "Document",
@@ -689,8 +659,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IBookSortStrategy.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:42.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:42.435Z"
             },
             {
               "$type": "Document",
@@ -702,8 +671,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IAuthorRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:39:11.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:39:11.106Z"
             },
             {
               "$type": "Document",
@@ -715,8 +683,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:08.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:08.705Z"
             },
             {
               "$type": "Document",
@@ -728,8 +695,7 @@
               "RelativeToolTip": "BookAddict.Application\\Interfaces\\IBookRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:40:41.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:40:41.825Z"
             },
             {
               "$type": "Document",
@@ -741,8 +707,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\AuthHandler\\RegisterUserHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T04:42:17.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T04:42:17.813Z"
             },
             {
               "$type": "Document",
@@ -754,8 +719,7 @@
               "RelativeToolTip": "BookAddict.Application\\Queries\\OrderQueries\\ConfirmOrderRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:29:38.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T10:29:38.88Z"
             },
             {
               "$type": "Document",
@@ -767,8 +731,7 @@
               "RelativeToolTip": "BookAdict\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:13:56.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:13:56.824Z"
             },
             {
               "$type": "Document",
@@ -780,8 +743,7 @@
               "RelativeToolTip": "BookAdict\\BookAdict.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T13:43:15.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:43:15.127Z"
             },
             {
               "$type": "Document",
@@ -793,8 +755,7 @@
               "RelativeToolTip": "BookAddict.Application\\Queries\\OrderQueries\\RedirectOrderCreditCardPaymentRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T11:45:39.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T11:45:39.165Z"
             },
             {
               "$type": "Document",
@@ -806,8 +767,7 @@
               "RelativeToolTip": "BookAddict.Application\\Handlers\\OrderHandlers\\RedirectOrderCreditCardPaymentHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAmwBYAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T11:46:56.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T11:46:56.515Z"
             },
             {
               "$type": "Document",
@@ -819,8 +779,7 @@
               "RelativeToolTip": "BookAddict.Application\\Helpers\\MappingProfile.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwB8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:05:08.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:05:08.581Z"
             },
             {
               "$type": "Document",
@@ -832,8 +791,7 @@
               "RelativeToolTip": "BookAddict.Application\\Services\\PaymentService.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAmwB4AAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:52:17.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:52:17.631Z"
             },
             {
               "$type": "Document",
@@ -857,8 +815,7 @@
               "RelativeToolTip": "DataRepository.Core\\Models\\OrderItem.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:54:45.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T06:54:45.469Z"
             },
             {
               "$type": "Document",
@@ -906,8 +863,7 @@
               "RelativeToolTip": "BookAddict.Application\\DTOS\\CategoryDtos\\CategoryDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:20:20.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:20:20.066Z"
             },
             {
               "$type": "Document",
@@ -919,8 +875,7 @@
               "RelativeToolTip": "BookAddict.Application\\DTOS\\BookDtos\\BookDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:50:55.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:50:55.732Z"
             },
             {
               "$type": "Document",
@@ -1004,8 +959,7 @@
               "RelativeToolTip": "BookAdict\\Controllers\\BookController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:58:12.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:58:12.911Z"
             },
             {
               "$type": "Document",
@@ -1017,8 +971,7 @@
               "RelativeToolTip": "BookAdict\\Controllers\\AuthorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:50:27.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:50:27.728Z"
             },
             {
               "$type": "Document",
@@ -1042,8 +995,7 @@
               "RelativeToolTip": "BookAddict.Application\\DTOS\\BookDtos\\BookInsertDto.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwBQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:51:06.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:51:06.565Z"
             },
             {
               "$type": "Document",
@@ -1055,8 +1007,7 @@
               "RelativeToolTip": "BookAddict.Application\\Services Interfaces\\IImageServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:51:20.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:51:20.055Z"
             },
             {
               "$type": "Document",
@@ -1068,8 +1019,7 @@
               "RelativeToolTip": "BookAddict.Application\\Services\\ImageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:51:30.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:51:30.547Z"
             },
             {
               "$type": "Document",
@@ -1081,8 +1031,7 @@
               "RelativeToolTip": "BookAddict.Application\\DTOS\\CategoryDtos\\CategoryInDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:21:44.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T14:21:44.65Z"
             },
             {
               "$type": "Document",
@@ -1094,8 +1043,7 @@
               "RelativeToolTip": "BookAddict.Application\\DTOS\\AuthorDtos\\AuthorInDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:45:11.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:45:11.394Z"
             },
             {
               "$type": "Document",
@@ -1119,8 +1067,7 @@
               "RelativeToolTip": "BookAddict.Application\\Commands\\AddBookRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:43:39.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:43:39.72Z"
             }
           ]
         }
