@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using BookAddict.Domain.Dtos;
 using BookAddict.Domain.HelperModels;
 using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
@@ -10,6 +9,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using BookAddict.Application.DTOS.AuthDtos;
 
 namespace DataRepo.Ef.Services
 {

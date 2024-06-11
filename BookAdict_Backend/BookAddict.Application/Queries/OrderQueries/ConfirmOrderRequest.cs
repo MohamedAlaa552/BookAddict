@@ -1,6 +1,7 @@
-﻿using BookAddict.Domain.Dtos;
-using BookAddict.Domain.Dtos.CartDtos;
+﻿
+using BookAddict.Application.DTOS.CartDtos;
 using MediatR;
+using BookAddict.Application.DTOS.OrderAndPaymentDtos;
 
 namespace BookAdict.Queries.OrderQueries
 {

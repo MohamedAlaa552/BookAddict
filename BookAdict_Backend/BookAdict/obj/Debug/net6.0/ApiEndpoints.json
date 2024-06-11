@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "roleModel",
-        "Type": "BookAddict.Domain.Dtos.AddRoleDto",
+        "Type": "BookAddict.Application.DTOS.AuthDtos.AddRoleDto",
         "IsRequired": true
       }
     ],
@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "tokenModel",
-        "Type": "BookAddict.Domain.Dtos.TokenRequestDto",
+        "Type": "BookAddict.Application.DTOS.AuthDtos.TokenRequestDto",
         "IsRequired": true
       }
     ],
@@ -51,7 +51,7 @@
     "Parameters": [
       {
         "Name": "registerModel",
-        "Type": "BookAddict.Domain.Dtos.RegisterRequestDto",
+        "Type": "BookAddict.Application.DTOS.AuthDtos.RegisterRequestDto",
         "IsRequired": true
       }
     ],
@@ -444,7 +444,7 @@
     "Parameters": [
       {
         "Name": "cartItem",
-        "Type": "BookAddict.Domain.Dtos.CartDtos.CartItem",
+        "Type": "BookAddict.Application.DTOS.CartDtos.CartItem",
         "IsRequired": true
       }
     ],
@@ -460,7 +460,7 @@
     "Parameters": [
       {
         "Name": "cartItem",
-        "Type": "BookAddict.Domain.Dtos.CartDtos.CartItem",
+        "Type": "BookAddict.Application.DTOS.CartDtos.CartItem",
         "IsRequired": true
       }
     ],
@@ -566,7 +566,7 @@
     "Parameters": [
       {
         "Name": "items",
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookAddict.Domain.Dtos.CartDtos.CartItem, BookAddict.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookAddict.Application.DTOS.CartDtos.CartItem, BookAddict.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "IsRequired": true
       },
       {

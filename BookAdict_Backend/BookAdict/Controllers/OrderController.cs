@@ -1,12 +1,5 @@
-﻿using BookAdict.Services;
-using BookAddict.Application.Interfaces;
-using BookAddict.Domain.Models;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Stripe;
-using BookAddict.Domain.Dtos.CartDtos;
-using BookAddict.Domain.Dtos;
-using AutoMapper;
+﻿using Microsoft.AspNetCore.Mvc;
+using BookAddict.Application.DTOS.CartDtos;
 using MediatR;
 using BookAdict.Queries.OrderQueries;
 using BookAddict.Application.Queries.OrderQueries;
@@ -17,9 +10,6 @@ namespace BookAdict.Controllers
     [ApiController]
     public class OrderController : ControllerBase
     {
-        //private readonly PaymentService _paymentService;
-        //private readonly IUnitOfWork _unitOfWork;
-        //private readonly IMapper _mapper;
         private readonly IMediator _mediator;
         public OrderController( IMediator mediator)
         {

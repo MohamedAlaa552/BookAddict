@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sHvT/2tOXZQ8hWi6WU2WYGbmCs6jCMmVQdkJZ+7SbDlINCjNP0gwpuEYbtFRm1sQ5fXNeJ0M5w8mC9t6VGFJLQ==",
+  "dgSpecHash": "89J34CJKhjAC1UkqaKxE3b+frs4h6yx9PLgD3gpoKfiz9v/ofJ/l1zJosD7k8zG1F5lfU+rIrIMTqmF79kUFQQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\BookAddict\\BookAdict_Backend\\BookAddict.Application\\BookAddict.Application.csproj",
+  "projectFilePath": "D:\\project dublicate\\BA\\BookAdict_Backend\\BookAddict.Application\\BookAddict.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mozam\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mozam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

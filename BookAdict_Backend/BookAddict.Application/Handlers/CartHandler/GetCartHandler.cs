@@ -1,5 +1,5 @@
 ﻿using BookAdict.Queries.CartQueries;
-using BookAddict.Domain.Dtos.CartDtos;
+using BookAddict.Application.DTOS.CartDtos;
 using BookAddict.Application.Interfaces;
 using MediatR;
 

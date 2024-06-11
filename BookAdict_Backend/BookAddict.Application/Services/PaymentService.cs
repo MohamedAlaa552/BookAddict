@@ -1,4 +1,4 @@
-﻿using BookAddict.Domain.Dtos.CartDtos;
+﻿using BookAddict.Application.DTOS.CartDtos;
 using BookAddict.Domain.Models;
 using Microsoft.Extensions.Configuration;
 using Stripe;

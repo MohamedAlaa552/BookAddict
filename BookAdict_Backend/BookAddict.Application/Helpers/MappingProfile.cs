@@ -1,12 +1,13 @@
 ﻿using AutoMapper;
-using BookAddict.Domain.Dtos;
 using BookAddict.Application.DTOS.AuthorDtos;
 using BookAddict.Application.DTOS.BookDtos;
 using BookAdict.Application.DTOS.CategoryDtos;
 using BookAddict.Domain.Models;
 using BookAddict.Application.DTOS.CategoryDtos;
-using BookAddict.Domain.Models;
-using BookAddict.Domain.Dtos.CartDtos;
+using BookAddict.Application.DTOS.CartDtos;
+using BookAddict.Application.DTOS.AuthDtos;
+using BookAddict.Application.DTOS.UserDtos;
+using BookAddict.Application.DTOS.OrderAndPaymentDtos;
 
 namespace BookAdict.Helpers
 {
