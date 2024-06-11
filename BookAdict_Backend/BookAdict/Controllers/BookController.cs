@@ -28,8 +28,6 @@ namespace BookAdict.Controllers
             _mediator = mediator;
         }
 
-        //private readonly IBaseRepository<Book> _bookRepository;
-
         [HttpGet("GetAllBooks")]
         public async Task<IActionResult> GetAllBooks([FromQuery] string? sortBy , [FromQuery] string? categoryName)
         {

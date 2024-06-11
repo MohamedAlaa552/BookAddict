@@ -33,7 +33,7 @@ namespace DataRepo.Ef.Repositories
 
         public async Task<IEnumerable<Author>> GetAuthorsAsync()
         {
-          return await _context.Author.ToListAsync();
+          return await _context.Author.AsNoTracking().ToListAsync();
         }
 
         public async Task<IEnumerable<Author>> SearchAuthors(string searchText)
