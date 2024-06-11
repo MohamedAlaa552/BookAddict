@@ -1,4 +1,4 @@
-﻿using BookAddict.Domain.Dtos;
+﻿using BookAddict.Application.DTOS.UserDtos;
 using BookAddict.Domain.Models;
 using MediatR;
 

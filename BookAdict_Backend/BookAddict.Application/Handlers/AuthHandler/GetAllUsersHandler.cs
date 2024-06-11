@@ -1,10 +1,10 @@
 ﻿using AutoMapper;
 using BookAdict.Commands.AuthCommands;
 using BookAdict.Queries.AuthQueries;
-using BookAddict.Domain.Dtos;
 using BookAddict.Application.Interfaces;
 using BookAddict.Domain.Models;
 using MediatR;
+using BookAddict.Application.DTOS.UserDtos;
 
 namespace BookAdict.Handlers.AuthHandler
 {

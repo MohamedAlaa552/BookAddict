@@ -1,10 +1,4 @@
-﻿using BookAddict.Domain.Dtos;
-using BookAddict.Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BookAddict.Domain.Models;
 
 namespace BookAddict.Application.Interfaces
 {

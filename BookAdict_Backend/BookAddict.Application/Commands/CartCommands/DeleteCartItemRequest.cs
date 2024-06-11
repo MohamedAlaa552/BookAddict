@@ -1,4 +1,4 @@
-﻿using BookAddict.Domain.Dtos.CartDtos;
+﻿using BookAddict.Application.DTOS.CartDtos;
 using MediatR;
 
 namespace BookAdict.Commands.CartCommands

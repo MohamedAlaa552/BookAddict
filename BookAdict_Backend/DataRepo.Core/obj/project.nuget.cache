@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8USAKEypfAxPBA4gLccVbMhCI/Nu3+Q9xxOT4MqdPbAocRIhgtEppcGyxTCo1HzaWjGFBWkRsnc6yHF31BhUTg==",
+  "dgSpecHash": "m+/aUbr89DQK+N4g2LDt/9BY84bhwczZ4iCCNJLi1XJPu4J6PDhBEBFa98YYNaeIv5hkLTvrralGehYPecm/iA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\BookAddict\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj",
+  "projectFilePath": "D:\\project dublicate\\BA\\BookAdict_Backend\\DataRepo.Core\\BookAddict.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mozam\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mozam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
